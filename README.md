@@ -1,10 +1,10 @@
 Hi, I'm Sriya Smita Sahoo
-AI Agent Engineer & Full-Stack Developer — I build agentic systems and the full-stack apps that put them in front of users.
+AI Agent Engineer & Full-Stack Developer, I build agentic systems and the full-stack apps that put them in front of users.
 
 MS Computer Science, Indiana University Bloomington (2026). Based in Chicago, open to full-time SWE / AI Agent Engineer roles across the US.
 
 What I'm building
-I'm focused on multi-stage agentic pipelines — systems where an LLM doesn't just respond, but reasons across steps, calls tools, monitors live data, and makes accept/escalate decisions with an audit trail behind every choice. I pair that with full-stack engineering (React/Vite + FastAPI/Django) so the agent is actually usable, not just a notebook demo.
+I'm focused on multi-stage agentic pipelines,systems where an LLM doesn't just respond, but reasons across steps, calls tools, monitors live data, and makes accept/escalate decisions with an audit trail behind every choice. I pair that with full-stack engineering (React/Vite + FastAPI/Django) so the agent is actually usable, not just a notebook demo.
 
 Featured Projects
 RatePilot — Autonomous Bill Negotiation Agent
@@ -31,15 +31,6 @@ OpenCV preprocesses/resizes frames (1920×1080 → 640×480) before YOLOv8 infer
 40% improvement in on-device inference throughput, sub-second detection
 Automated violation detection with centralized logging
 Tech Stack
-Languages: Python · Java · TypeScript/JavaScript · SQL · C/C++ · Scala
-
-Full-Stack: React · FastAPI · Django · Flask · Node.js · REST APIs
-
-Data & Infra: PostgreSQL · MySQL · Redis · Kafka · Celery · Docker · AWS (EC2, S3) · Azure · GCP
-
-AI / Agentic: LLM tool-use & orchestration, RAG, multi-agent pipelines (CrewAI), Anthropic Claude API
-
-CV / ML: YOLOv8 · OpenCV · PyTorch · TensorFlow · scikit-learn · Apache Spark/GraphX
 
 Certifications
 AWS Certified Solutions Architect – Associate
